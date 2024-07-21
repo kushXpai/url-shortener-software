@@ -106,6 +106,7 @@ Make sure you have the following installed:
 ## Project Structure
 
 url-shortener/
+
 ├── assets/
 ├── backend/
 │ ├── controllers/
