@@ -103,26 +103,6 @@ Make sure you have the following installed:
 
     - The click counts for each shortened URL will be displayed in the analytics section below the input box.
 
-## Project Structure
-
-url-shortener/
-
-├── assets/
-├── backend/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── connect.js
-│ ├── index.js
-│ ├── package.json
-│ └── README.md
-├── frontend/
-│ ├── public/
-│ ├── src/
-│ ├── package.json
-│ └── README.md
-└── README.md
-
 ## Contributing
 
 Feel free to open issues or submit pull requests with improvements. For major changes, please open an issue first to discuss what you would like to change.
