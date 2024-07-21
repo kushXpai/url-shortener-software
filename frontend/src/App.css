@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.App-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.title-container {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.title-text {
+  font-size: 2em;
+  font-weight: bold;
+  max-width: 700px;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.App-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.header-container {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.landing-image {
+  width: 60%;
+  max-width: 700px;
+}
+
+.header-text {
+  max-width: 700px;
+  text-align: left;
+  margin-right: 11%;
+  margin-left: 20px;
+}
+
+.header-text h1 {
+  font-size: 4.5em;
+  margin: 10px 0;
+}
+
+.header-text p {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: gray;
+}
+
+.advanced-statistics {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.footer {
+  height: 300px;
+  width: 100%;
+  background-color: rebeccapurple;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 1em;
+}
